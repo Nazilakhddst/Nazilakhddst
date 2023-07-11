@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nazilakhddst
+- 👋 Hi, I’m Nazila Khodadoost
 - 🌱 I’m currently learning html, css, python and #c.
 - 📫 How to reach me nazilakhodadoust2001@gmail.com
 
