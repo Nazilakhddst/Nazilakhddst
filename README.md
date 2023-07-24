@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nazila Khodadoost
-- 🌱 I’m currently learning html, css, python and #c.
+- 🌱 I’m currently learning html, css, JavaScript.
 - 📫 How to reach me nazilakhodadoust2001@gmail.com
 
 <!---
